@@ -1,0 +1,6 @@
+# Private keys / seed phrases — JANGAN PERNAH commit
+crew_accounts.csv
+*.csv
+.env
+*.key
+*.seed
